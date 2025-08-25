@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aung Chan Oo (Daniel)</h1>
+<h1 align="center">Hi 👋, I'm Aung Chan Oo</h1>
 <h3 align="center">I'm a Full-stack software engineer. I code with JavaScript, TypeScript and PHP, Laravel</h3>
-<h3 align="left">I'm working with mostly React and Node.js</h3>
-<h3 align="left">I'm currently learning UI/UX, Animation, Motion Designs and Flutter</h3>
+<h3 align="left">I'm working with mostly React.js, Next.js, Node.js and Nest.js</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamfilk&label=Profile%20views&color=0e75b6&style=flat" alt="adamfilk" /> </p>
 
 - 📫 How to reach me **aungchanoo.dev@gmail.com**
